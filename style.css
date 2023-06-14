@@ -85,6 +85,9 @@ footer{
         margin: 20px auto 40px;
         max-width: 500px;
     }
+    .box{
+        max-width: 500px;
+    }
 }
 
 .features .box{
